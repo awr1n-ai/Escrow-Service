@@ -33,7 +33,9 @@ The escrow contract works as a neutral intermediary:
 
 ## 🚀 Deployed Smart Contract Link
 
-XXX
+https://stellar.expert/explorer/testnet/contract/CAZWMYYUEAQR3AKQIMDHZDJFI25SFSCSTC4W77SBPBC3U2FQK5LD6GEC
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/dfaedf7b-9cc4-43e3-9b96-19b156485fdf" />
+
 
 ---
 
